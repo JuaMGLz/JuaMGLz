@@ -8,9 +8,6 @@
 
 <p align="center">
   <a href="https://github.com/JuaMGLz">
-    <img src="https://github-readme-stats.vercel.app/api?username=JuaMGLz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  </a>
-  <a href="https://github.com/JuaMGLz">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaMGLz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
   </a>
 </p>
@@ -33,9 +30,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/e3b40502-8c14-4ebd-a876-3cd035599696" />
-<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/f3802a4b-a2dd-4b3d-83b0-9d5a04832d46" />
-
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
