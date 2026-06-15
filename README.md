@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Juan Manuel González 👋</h1>
+<h1 align="center">Hola, soy Juan Manuel González Espinosa</h1>
 
 <h3 align="center">Ingeniero en Computación | Full Stack & Desktop Developer</h3>
 
